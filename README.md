@@ -1,6 +1,10 @@
 # Hi, I'm Yash Tailor 👋
 
-### AI Engineer | Agentic AI | LLM Applications
+### AI Engineer | Agentic AI · Multi-Agent Systems · RAG · LLM Applications
+
+📧 **Email:** [workwithyash101@gmail.com](mailto:workwithyash101@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/yash-tailor-b3246a248](https://www.linkedin.com/in/yash-tailor-b3246a248/)  
+💻 **GitHub:** [@Yash-Tailor1](https://github.com/Yash-Tailor1)
 
 I build AI-powered applications using **Agentic AI, multi-agent systems, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs)**.
 
