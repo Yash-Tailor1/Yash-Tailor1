@@ -2,9 +2,9 @@
 
 ### AI Engineer | Agentic AI | LLM Applications
 
-I build AI-powered applications and automation solutions, with a focus on agentic workflows, retrieval-augmented generation (RAG), and practical applications of large language models.
+I build AI-powered applications and automation solutions, focusing on agentic workflows, retrieval-augmented generation (RAG), and practical applications of large language models.
 
-I enjoy exploring how AI can be used to build useful, reliable applications that connect models, APIs, data, and user-facing interfaces.
+I enjoy building useful, reliable applications that connect AI models, APIs, data, and user-facing interfaces.
 
 ---
 
@@ -64,7 +64,7 @@ A multi-agent travel planning application built with LangGraph.
 
 ### 🔬 [Multi-Agent Research System](https://github.com/Yash-Tailor1/multi-agent-research-system)
 
-A multi-agent research system exploring the use of coordinated AI agents for research-oriented tasks.
+A multi-agent research system exploring coordinated AI agents for research-oriented tasks.
 
 **Focus:** Multi-Agent Systems · AI Workflows · Python
 
@@ -95,7 +95,7 @@ A project focused on the cold-chain logistics domain.
 
 - **GitHub:** [@Yash-Tailor1](https://github.com/Yash-Tailor1)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yash-tailor-b3246a248)
-- **Email:** workwithyash101@gmail.com
+- **Email:** [workwithyash101@gmail.com](mailto:workwithyash101@gmail.com)
 
 ---
 
