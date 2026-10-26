@@ -2,9 +2,9 @@
 
 ### AI Engineer | Agentic AI · Multi-Agent Systems · RAG · LLM Applications
 
-📧 **Email:** [workwithyash101@gmail.com](mailto:workwithyash101@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yash-tailor-b3246a248](https://www.linkedin.com/in/yash-tailor-b3246a248/)  
-💻 **GitHub:** [@Yash-Tailor1](https://github.com/Yash-Tailor1)
+- **GitHub:** [@Yash-Tailor1](https://github.com/Yash-Tailor1)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **Email:** [workwithyash101@gmail.com](mailto:workwithyash101@gmail.com)
 
 I build AI-powered applications using **Agentic AI, multi-agent systems, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs)**.
 
@@ -97,14 +97,6 @@ An AI-powered video-processing project that explores extracting audio from video
 - AI application development and deployment
 - LLM integrations, API automation, and practical AI engineering
 - Building reliable AI-powered tools for real-world use cases
-
----
-
-## 🤝 Let's Connect
-
-- **GitHub:** [@Yash-Tailor1](https://github.com/Yash-Tailor1)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
-- **Email:** [workwithyash101@gmail.com](mailto:workwithyash101@gmail.com)
 
 ---
 
