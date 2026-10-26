@@ -94,8 +94,8 @@ A project focused on the cold-chain logistics domain.
 ## Let's Connect
 
 - **GitHub:** [@Yash-Tailor1](https://github.com/Yash-Tailor1)
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **Email:** [Add your professional email address]
+- **LinkedIn:** https://www.linkedin.com/in/yash-tailor-b3246a248/
+- **Email:** workwithyash101@gmail.com
 
 ---
 
