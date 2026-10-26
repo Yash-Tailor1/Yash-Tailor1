@@ -2,32 +2,28 @@
 
 ### AI Engineer | Agentic AI | LLM Applications
 
-I build AI-powered applications and automation solutions, focusing on agentic workflows, retrieval-augmented generation (RAG), and practical applications of large language models.
+I build AI-powered applications using **Agentic AI, multi-agent systems, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs)**.
 
-I enjoy building useful, reliable applications that connect AI models, APIs, data, and user-facing interfaces.
+My focus is on turning AI concepts into working applications by combining intelligent workflows, APIs, vector databases, and user-friendly interfaces.
 
----
-
-## About Me
-
-- 🤖 Interested in **Agentic AI, LLMs, and AI Engineering**
-- 🧠 Exploring multi-agent systems, RAG, and AI application development
-- ⚙️ Building projects with Python, FastAPI, LangGraph, and generative AI
-- 🚀 Focused on turning AI concepts into working applications
+- 🤖 Exploring Agentic AI and multi-agent orchestration
+- 🧠 Building RAG-based applications and knowledge-grounded AI systems
+- ⚙️ Developing with Python, FastAPI, LangGraph, and LangChain
+- 🚀 Building, integrating, and deploying AI applications
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Backend**
 
-Python · FastAPI · REST APIs
+Python · FastAPI · REST APIs · Streamlit
 
 **AI & Agent Development**
 
-LLMs · Generative AI · LangGraph · LangChain · RAG
+LLMs · Generative AI · Agentic AI · LangChain · LangGraph · RAG
 
-**Data & Infrastructure**
+**Databases & Tools**
 
 Pinecone · Vector Search · Git · GitHub
 
@@ -35,66 +31,75 @@ Pinecone · Vector Search · Git · GitHub
 
 Google Gemini · Google AI Studio
 
+**AI Coding Assistants & IDEs**
+
+Claude · Claude Code · Cursor · Windsurf · GitHub Copilot · Google Antigravity
+
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🩺 [Medical Agentic Chatbot](https://github.com/Yash-Tailor1/medical-agentic-chatbot)
 
-An AI-powered medical education chatbot designed to support medical question answering, document-based retrieval, and multimodal interaction.
+An AI-powered medical education application that combines language models with document-based knowledge retrieval.
 
-- Medical knowledge retrieval from a reference document
-- Gemini-powered response generation
-- Pinecone vector database integration
-- Image and voice support
+- 📚 Retrieves relevant information from a medical reference document
+- 🧠 Generates responses using Google Gemini
+- 🔎 Uses Pinecone for vector search and knowledge retrieval
+- 🖼️ Explores image and voice-based interaction
+- ⚡ Built with FastAPI and a retrieval-augmented generation pipeline
 
-**Focus:** RAG · LLM Applications · FastAPI · Gemini · Pinecone
-
-### 🧠 [Ggentic Medical Chatbot](https://github.com/Yash-Tailor1/ggentic-medical-chatbot)
-
-A separate medical chatbot project exploring AI-driven medical question answering.
-
-**Focus:** AI Applications · Medical Domain
+**Tech:** Python · FastAPI · Gemini · Pinecone · RAG
 
 ### ✈️ [TripBuddy-AI](https://github.com/Yash-Tailor1/TripBuddy-AI)
 
-A multi-agent travel planning application built with LangGraph.
+A multi-agent AI travel planner built with LangGraph to coordinate travel-planning workflows and generate personalized itineraries from natural-language requests.
 
-**Focus:** Agentic AI · LangGraph · Travel Planning
+- 🗺️ Creates personalized travel plans
+- 🤖 Uses agent-based workflow orchestration
+- 🔗 Integrates AI models, APIs, and travel research tools
+- 🌐 Built as an API-driven application
+
+**Tech:** Python · LangGraph · FastAPI · LLMs · AI Agents
 
 ### 🔬 [Multi-Agent Research System](https://github.com/Yash-Tailor1/multi-agent-research-system)
 
-A multi-agent research system exploring coordinated AI agents for research-oriented tasks.
+A research-oriented AI application designed to explore multi-agent workflows and coordinated research tasks.
 
-**Focus:** Multi-Agent Systems · AI Workflows · Python
+- 🤖 Explores collaboration between specialized AI agents
+- 🔍 Supports research-oriented information gathering
+- 🧩 Demonstrates agentic workflow design
+
+**Tech:** Python · Multi-Agent Systems · LLMs
+
+🌐 **[Try the Live Demo](https://multi-agent-research-system-jbgpuq7j5urqvpobxnp7ua.streamlit.app/)**
 
 ### 🎬 [AI Video Assistant](https://github.com/Yash-Tailor1/AI-Video-Assistant)
 
-An AI video-processing project involving audio extraction and speech transcription workflows.
+An AI-powered video-processing project that explores extracting audio from video content and converting speech into text.
 
-**Focus:** Python · Audio Processing · Speech-to-Text
+- 🎧 Audio extraction and preprocessing
+- 🗣️ Speech-to-text transcription workflows
+- 📝 Processing audio from video content
 
-### 🚚 [Cold Chain Logistics — FDE Project](https://github.com/Yash-Tailor1/cold-chain-logistics-FDE-project)
-
-A project focused on the cold-chain logistics domain.
-
-**Focus:** Logistics Technology · Software Development
+**Tech:** Python · Audio Processing · Speech Recognition · Streamlit
 
 ---
 
-## Currently Exploring
+## 📚 Currently Exploring
 
 - Agentic AI architectures and multi-agent orchestration
-- Retrieval-augmented generation and knowledge-grounded responses
-- Building and deploying AI applications with APIs
-- Practical applications of generative AI and automation
+- RAG pipelines, vector databases, and grounded responses
+- AI application development and deployment
+- LLM integrations, API automation, and practical AI engineering
+- Building reliable AI-powered tools for real-world use cases
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 - **GitHub:** [@Yash-Tailor1](https://github.com/Yash-Tailor1)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yash-tailor-b3246a248)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
 - **Email:** [workwithyash101@gmail.com](mailto:workwithyash101@gmail.com)
 
 ---
